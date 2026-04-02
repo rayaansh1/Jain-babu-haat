@@ -1,0 +1,34 @@
+:root {
+  --navy: #0f2a4a; --navy-light: #1a3d6e;
+  --gold: #c9973a; --gold-light: #e8b85c;
+  --cream: #fdfbf7; --white: #ffffff;
+  --text-dark: #1a1a1a; --text-mid: #4a4a4a; --text-light: #7a7a7a;
+  --border: rgba(15,42,74,0.12);
+  --font-serif: 'Playfair Display', serif;
+  --font-hindi: 'Noto Sans Devanagari', sans-serif;
+  --font-body: 'Lato', sans-serif;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: var(--font-hindi); background: var(--cream); color: var(--text-dark); -webkit-font-smoothing: antialiased; }
+h1,h2,h3,h4 { font-family: var(--font-serif); }
+a { text-decoration: none; color: inherit; }
+img { max-width: 100%; display: block; }
+button { cursor: pointer; font-family: var(--font-hindi); }
+@keyframes ticker { 0% { transform: translateX(0); } 100% { transform: translateX(-50%); } }
+@keyframes fadeInUp { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
+@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+.fade-up { animation: fadeInUp 0.6s ease forwards; }
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-thumb { background: var(--gold); border-radius: 10px; }
+.bottom-spacer { height: 72px; }
+.page-header { background: var(--navy); padding: 18px 16px 22px; }
+.gold-bar { width: 32px; height: 2px; background: var(--gold); margin-bottom: 10px; }
+.sec-card { margin: 12px; background: #fff; border-radius: 14px; border: 0.5px solid var(--border); overflow: hidden; }
+.sec-head { background: var(--navy); padding: 12px 18px; display: flex; align-items: center; gap: 10px; }
+.sec-stripe { width: 3px; height: 26px; background: var(--gold); border-radius: 2px; flex-shrink: 0; }
+.sec-head-label { font-size: 9px; font-weight: 700; letter-spacing: 1.8px; color: var(--gold); text-transform: uppercase; }
+.sec-head-sub { font-size: 11px; color: rgba(255,255,255,0.5); margin-top: 2px; }
+.tag { border-radius: 20px; padding: 3px 10px; font-size: 9px; font-weight: 600; }
+.tag-navy { background: rgba(15,42,74,0.07); color: var(--navy); }
+.tag-gold { background: rgba(201,151,58,0.12); color: #8a6020; }
+.tag-white { background: rgba(201,151,58,0.2); color: var(--gold-light); }

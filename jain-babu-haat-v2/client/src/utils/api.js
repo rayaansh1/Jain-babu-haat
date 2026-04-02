@@ -1,0 +1,21 @@
+import axios from 'axios';
+const API = axios.create({ baseURL: import.meta.env.VITE_API_URL || 'http://localhost:5000/api' });
+API.interceptors.request.use(c => {
+  const t = localStorage.getItem('adminToken');
+  if (t) c.headers.Authorization = `Bearer ${t}`;
+  return c;
+});
+export const getShops = () => API.get('/shops');
+export const getShop = id => API.get(`/shops/${id}`);
+export const createShop = d => API.post('/shops', d);
+export const updateShop = (id, d) => API.put(`/shops/${id}`, d);
+export const deleteShop = id => API.delete(`/shops/${id}`);
+export const createOrder = d => API.post('/orders', d);
+export const getOrders = () => API.get('/orders');
+export const updateOrder = (id, d) => API.put(`/orders/${id}`, d);
+export const getNotices = () => API.get('/notices');
+export const createNotice = d => API.post('/notices', d);
+export const deleteNotice = id => API.delete(`/notices/${id}`);
+export const adminLogin = d => API.post('/admin/login', d);
+export const getAdminProfile = () => API.get('/admin/profile');
+export default API;
