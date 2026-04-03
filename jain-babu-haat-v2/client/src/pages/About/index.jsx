@@ -40,6 +40,30 @@ const hindiContent = [
 उनकी पत्नी श्रीमती निर्मला सिंह जी उनकी जीवनसाथी के रूप में हर कदम पर उनके साथ रही हैं। उनके तीन पुत्र हैं — अमरेन्द्र नारायण सिंह, शैलेन्द्र नारायण सिंह और बिरेन्द्र नारायण सिंह — जो उनके आदर्शों को आगे बढ़ा रहे हैं।`
   },
   {
+  heading: 'जीवन संगिनी — उनकी छाया, शक्ति और प्रेरणा का आधार',
+  body: `श्रीमती निर्मला सिंह जी श्री जय नारायण सिंह जी की जीवन संगिनी होने के साथ-साथ उनके जीवन की वह अटूट शक्ति हैं, जो हर परिस्थिति में उनके साथ छाया की तरह खड़ी रहीं। पिछले 60 से अधिक वर्षों से उन्होंने उनके जीवन के हर उतार-चढ़ाव में उनका साथ निभाया है। उनका यह साथ केवल एक जिम्मेदारी नहीं, बल्कि सच्चे प्रेम, समर्पण और विश्वास का प्रतीक है।
+
+उन्होंने अपने जीवन को परिवार की देखभाल और उसके सुख-समृद्धि के लिए समर्पित कर दिया। हर कठिन परिस्थिति में उन्होंने धैर्य और साहस के साथ परिवार को संभाला और हर खुशी के पल को पूरे दिल से जिया। उनका जीवन त्याग, निष्ठा और समर्पण का एक सजीव उदाहरण है।
+
+उनका स्वभाव अत्यंत मिलनसार, खुला और प्रभावशाली है, जिसके कारण वे समाज में अत्यंत प्रिय हैं। उनकी सादगी, अपनापन और आत्मीयता उन्हें हर व्यक्ति के दिल के करीब लाती है और वे गांव तथा समाज के मूल्यों का सच्चा प्रतिनिधित्व करती हैं।
+
+वे हर दृष्टि से एक आदर्श पत्नी और महिला का उदाहरण प्रस्तुत करती हैं। उनका जीवन यह सिखाता है कि प्रेम, धैर्य और शक्ति के साथ एक परिवार को किस प्रकार सहेजा और संजोया जा सकता है। आज भी वे अपनी सकारात्मकता और स्नेह से पूरे परिवार को एकजुट रखती हैं।`
+},
+{
+  heading: 'परिवार — प्रेम, संस्कार और एकता का आधार',
+  body: `श्री जय नारायण सिंह जी का परिवार उनके जीवन मूल्यों, अनुशासन और संस्कारों का सजीव प्रतिबिंब है। उन्होंने अपने जीवन से जो आदर्श स्थापित किए, वही आज उनके परिवार की नींव बने हुए हैं। परिवार का प्रत्येक सदस्य उनके विचारों और शिक्षाओं से गहराई से प्रभावित है और उनसे निरंतर प्रेरणा प्राप्त करता है।
+
+उनके तीनों पुत्र — अमरेन्द्र नारायण सिंह जी, शैलेन्द्र नारायण सिंह जी और बिरेन्द्र नारायण सिंह जी — ने अपने पिता से अनुशासन, जिम्मेदारी और जीवन के मूल्यों को सीखा है। वे न केवल उनके आदर्शों पर चलते हैं, बल्कि अपने जीवन में भी उन्हें आगे बढ़ाने का प्रयास करते हैं। उनके व्यक्तित्व में उनके पिता के संस्कार स्पष्ट रूप से दिखाई देते हैं।
+
+श्रीमती निर्मला सिंह जी ने अपने स्नेह, धैर्य और समर्पण से पूरे परिवार को एकजुट बनाए रखा है। उनके सहयोग और संस्कारों ने परिवार को मजबूत आधार प्रदान किया है, जिससे यह परिवार आज भी प्रेम और एकता के साथ आगे बढ़ रहा है।
+
+परिवार की बहुएं — श्रीमती रूबी सिंह, श्रीमती संजू सिंह और श्रीमती रूपा सिंह — ने भी परिवार के मूल्यों को अपनाते हुए बड़ों का सम्मान और संबंधों को निभाने की परंपरा को आगे बढ़ाया है। उनके व्यवहार में सादगी, अपनापन और सम्मान स्पष्ट रूप से दिखाई देता है।
+
+पोते-पोतियों — ऋषु आनंद, रवि, रितिक, सिमरन (छोटी) और पिहू — का अपने दादा जी से विशेष लगाव है। उन्होंने उनसे अनुशासन, प्रेम और जीवन के महत्वपूर्ण मूल्यों को सीखा है। उनके स्नेह और मार्गदर्शन से वे निरंतर आगे बढ़ रहे हैं।
+
+यह परिवार आज भी उनके मार्गदर्शन, प्रेम और प्रेरणा के साथ एकजुट होकर आगे बढ़ रहा है और उनके आदर्शों को आगे ले जाने का कार्य कर रहा है।`
+},
+  {
     heading: 'सामुदायिक सेवा और योगदान',
     body: `शिक्षण के साथ-साथ श्री जय नारायण सिंह जी  जी ने समाज सेवा को भी अपने जीवन का महत्वपूर्ण हिस्सा बनाया। वर्ष 1970 से 1980 तक वे ग्राम विकास समिति के अध्यक्ष रहे। इस पद पर रहते हुए उन्होंने गाँव के विकास के लिए अनेक महत्वपूर्ण कार्य किए — सड़क निर्माण, जल व्यवस्था और शिक्षा के प्रसार में उनका अमूल्य योगदान रहा।
 
@@ -80,6 +104,30 @@ He is a man of absolute principles. There is not a single instance in his life w
 
 His wife, Smt. Nirmala Singh Ji, has been his devoted life companion through every step of this journey. Together, they raised three sons — Amrendra Narayan Singh, Shailendra Narayan Singh, and Birendra Narayan Singh — each of whom continues to carry forward his ideals in their own lives.`
   },
+  {
+  heading: 'A Life Partner — A Silent Strength Behind the Legacy',
+  body: `Smt. Nirmala Singh Ji, as the life partner of Shri Jay Narayan Singh Ji, has been an unwavering strength in his life, standing beside him like a shadow in every situation. For more than 60 years, she has supported him through every phase of life. Her companionship is not merely a responsibility, but a true reflection of love, dedication, and trust.
+
+She has devoted her life to the care and well-being of her family, nurturing it with patience and strength. In every challenging situation, she handled responsibilities with courage and embraced moments of happiness wholeheartedly. Her life stands as a living example of sacrifice, commitment, and devotion.
+
+Her nature is warm, extroverted, and impactful, which makes her deeply loved and respected in society. Her simplicity, kindness, and sense of belonging connect her easily with people, and she truly represents the values of village life and social harmony.
+
+She stands as an ideal example of a devoted wife and a strong woman. Her life teaches how love, patience, and inner strength can nurture and sustain a family. Even today, she continues to keep the family united with her positivity, care, and affection.`
+},
+{
+  heading: 'Family — A Legacy of Love, Values, and Togetherness',
+  body: `The family of Shri Jay Narayan Singh Ji stands as a true reflection of his values, discipline, and teachings. The ideals he established in his life form the very foundation of the family today. Every member of the family is deeply influenced by his thoughts and continues to draw inspiration from him.
+
+His three sons — Amrendra Narayan Singh Ji, Shailendra Narayan Singh Ji, and Birendra Narayan Singh Ji — have learned discipline, responsibility, and strong moral values from their father. They not only follow his principles but also strive to carry them forward in their own lives. His influence is clearly visible in their personalities.
+
+Smt. Nirmala Singh Ji has kept the entire family united with her love, patience, and dedication. Her nurturing presence has provided a strong foundation, allowing the family to grow together with harmony and mutual respect.
+
+The daughters-in-law — Smt. Ruby Singh, Smt. Sanju Singh, and Smt. Rupa Singh — have embraced the family’s values and traditions. Through their simplicity, respect, and warmth, they contribute to maintaining strong family bonds.
+
+The grandchildren — Rishu Anand, Ravi, Ritik, Simran (Chotti), and Pihu — share a special bond with their grandfather. They have learned discipline, love, and important life values from him, and continue to grow under his guidance.
+
+Even today, the entire family moves forward together, guided by his wisdom, strengthened by his love, and inspired by his legacy.`
+},
   {
     heading: 'Community Service and Contributions',
     body: `Alongside his teaching career, Shri Jay Narayan Singh made community service an integral part of his life. From 1970 to 1980, he served as Chairman of the Gram Vikas Samiti, during which period he spearheaded numerous development initiatives for the village — including road construction, water management, and expansion of educational access in the region.
