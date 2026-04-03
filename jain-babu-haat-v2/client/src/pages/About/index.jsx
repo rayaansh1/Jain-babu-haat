@@ -301,7 +301,7 @@ export default function About() {
             {familyData.map((son, i) => (
               <div key={i} style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
                 <div style={{ width: 1, height: 16, background: 'rgba(201,151,58,0.4)' }} />
-                <div style={{ background: son.highlight ? '#c9973a' : 'rgba(15,42,74,0.06)', border: `1px solid ${son.highlight ? '#c9973a' : 'var(--border)'}`, borderRadius: 10, padding: '8px 6px', textAlign: 'center', width: '100%' }}>
+                <div style={{ background: 'rgba(15,42,74,0.06)', border: '1px solid var(--border)', borderRadius: 10, padding: '8px 6px', textAlign: 'center', width: '100%' }}>
                   <div style={{ fontSize: 10, fontWeight: 700, color: son.highlight ? '#0f2a4a' : '#0f2a4a', lineHeight: 1.3, fontFamily: 'var(--font-serif)' }}>
                     {son.name.split(' ').slice(0, 2).join(' ')}
                   </div>
